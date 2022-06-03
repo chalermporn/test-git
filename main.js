@@ -1,2 +1,2 @@
 console.log("hello")
-console.log("bird ok")
+console.log("bird not")
